@@ -1,3 +1,29 @@
+# 🅰️ Angular-Mini-Lab
+
+![Angular](https://img.shields.io/badge/Framework-Angular_17-dd0031?style=for-the-badge&logo=angular)
+![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178c6?style=for-the-badge&logo=typescript)
+
+> Un projet de test technique réalisé avec Angular pour valider les fondamentaux : composants, services, et gestion dynamique de l'affichage.
+
+---
+
+### ✨ Fonctionnalités testées
+* 🛠️ **Composants** : Architecture modulaire et réutilisable.
+* 🛰️ **Services & DI** : Gestion de la logique métier et injection de dépendances.
+* 🔄 **Data Binding** : Manipulation fluide des données (One-way / Two-way).
+* 🎨 **UI/UX** : Intégration de styles modernes et réactifs.
+
+---
+
+### 🚀 Installation et Lancement
+
+1. **Installer les dépendances** :
+   ```bash
+   npm install
+
+
+   
+
 # ProductFrontend
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.6.
